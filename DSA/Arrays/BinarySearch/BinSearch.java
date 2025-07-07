@@ -6,12 +6,12 @@ public class BinSearch {
     public static void main(String[] args) {
         int[] arr = {1, 2, 4 ,5 , 23, 55, 56};
         int target = 23;
-        int ans = BinarySearch(arr, target);
+        int ans = binarySearch(arr, target);
         System.out.println(ans);
         
     }
 
-    static int BinarySearch(int[] arr, int target){
+    static int binarySearch(int[] arr, int target){
 
         int start = 0;
         int end = arr.length - 1;
