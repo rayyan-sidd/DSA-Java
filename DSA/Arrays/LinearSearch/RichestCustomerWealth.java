@@ -1,3 +1,5 @@
+package LinearSearch;
+
 //https://leetcode.com/problems/richest-customer-wealth/description/
 
 

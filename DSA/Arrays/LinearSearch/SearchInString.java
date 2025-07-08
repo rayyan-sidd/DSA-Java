@@ -1,3 +1,5 @@
+package LinearSearch;
+
 class SearchInString{
     public static void main(String[] args) {
         String str = "Rayyan";
