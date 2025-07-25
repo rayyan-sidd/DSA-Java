@@ -1,4 +1,4 @@
-package BinarySearch;
+package Searching.BinarySearch;
 
 //Find the target element's index. Print -1 if not found.
 

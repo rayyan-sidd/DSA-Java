@@ -1,4 +1,4 @@
-package BinarySearch;
+package Searching.BinarySearch;
 // Facebook
 // https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
 

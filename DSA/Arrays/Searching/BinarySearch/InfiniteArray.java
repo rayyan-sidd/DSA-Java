@@ -1,4 +1,4 @@
-package BinarySearch;
+package Searching.BinarySearch;
 // Amazon
 
 public class InfiniteArray {
