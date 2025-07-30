@@ -8,8 +8,7 @@ import java.util.List;
 public class FindAllDuplicates {
     public static void main(String[] args) {
         int[] arr = {4,3,2,7,8,2,3,1};
-        List<Integer> ans = new ArrayList<>(4);
-        ans = findDuplicates(arr);
+        List<Integer> ans = findDuplicates(arr);
         System.out.println(ans);
         
     }
